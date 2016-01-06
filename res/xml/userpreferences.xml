@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:cacheColorHint="#8AA0B6"
+        android:choiceMode="singleChoice"
+        android:defaultValue="1"
+        android:dialogTitle="Audio source"
+        android:entries="@array/audio_source_options"
+        android:entryValues="@array/audio_source_values"
+        android:key="PREF_AUDIO_SOURCE"
+        android:summary="Select the audio source to record from during calls"
+        android:title="Audio source" />
+    <ListPreference
+        android:cacheColorHint="#8AA0B6"
+        android:choiceMode="singleChoice"
+        android:defaultValue="1"
+        android:dialogTitle="Audio format"
+        android:entries="@array/audio_format_options"
+        android:entryValues="@array/audio_format_values"
+        android:key="PREF_AUDIO_FORMAT"
+        android:summary="Select the file format to use for call recordings"
+        android:title="Recording file format" />
+
+</PreferenceScreen>

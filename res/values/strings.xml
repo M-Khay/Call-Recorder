@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Premium Call Recorder</string>
+    <string name="recording_enabled_prompt">Record during calls</string>
+    <string name="audio_source_prompt">Audio source</string>
+    <string name="audio_format_prompt">Audio format</string>
+
+    <color name="Aqua">#FFFFFF</color>
+    <color name="my_blue">#175FFF</color>
+
+    <string name="accountname">Thumbnail</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+    <string name="turnon">Calls are not being recorded . Turn on</string>
+     <string name="turnsecond">recorder with the above button</string>
+ <string name="turnoff">stored in your phone Memory Card</string>
+ <string name="textoff">Calls will be automatically recorded and</string>
+ <string name="record">Record List</string>
+    <string name="settings">Settings</string>
+    <string name="notifi">Notifications</string>
+    <string name="messages">Messages</string>
+    <string name="setting">   Settings</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">Notification</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">Mic</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+       <string name="audio">Audio File Format</string>
+        <string name="channel">Audio Channels</string>
+         <string name="activate">Activate notification Messages</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/notification_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#678FFF"
+        android:text="Notifications"
+        android:textAlignment="inherit" />
+
+    <CheckBox
+        android:id="@+id/notification"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/notification_setting"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#000000"
+        android:text="Notification"
+        android:textColor="#FFFFFF" />
+
+    <!--
+         <View
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/notification"
+        android:background="#000000"
+        android:layout_margin="40dp" />
+    -->
+
+    <TextView
+        android:id="@+id/settings"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/notification"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="#678FFF"
+        android:textAlignment="inherit" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/settings" />
+
+</RelativeLayout>

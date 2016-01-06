@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">呼叫记录</string>
+    <string name="recording_enabled_prompt">录制通话</string>
+    <string name="audio_source_prompt">音频源</string>
+    <string name="audio_format_prompt">音频格式</string>
+    <color name="Aqua">#636363</color> 
+    <string name="accountname">Thumbnail</string> 
+       <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+        <string name="turnon">来电会自动记录并存 储在您的 </string>
+     <string name="turnsecond">手机存储卡</string>
+ <string name="turnoff">z您的手机存储卡</string>
+ <string name="textoff">来电会自动记录并存 储在</string>
+ <string name="record">记录列表</string>
+    <string name="settings">设置</string>
+    <string name="notifi">通知</string>
+    <string name="messages">消息</string>
+    <string name="setting">   设置</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">通知</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">麦克风</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">音频文件格式</string>
+        <string name="channel">音频通道</string>
+         <string name="activate">激活邮件通知</string>
+</resources>

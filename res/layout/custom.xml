@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#1d1f25"
+    android:orientation="horizontal" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentTop="true"
+        />
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="14dp"
+        android:textSize="16dp"
+        android:layout_alignParentLeft="true"
+        android:gravity="left"
+       android:lines="1"
+        android:textColor="#FFFFFF" 
+       />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="8dp"
+        android:textSize="16dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/text1"
+        android:textColor="#FFFFFF" 
+        android:layout_marginTop="26dp"
+       android:lines="1"
+        android:gravity="left"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/text2"
+        android:textSize="16dp"
+       android:lines="1"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="28dp"
+        android:textColor="#FFFFFF"
+        android:gravity="left" />
+
+    <RadioGroup
+        android:id="@+id/selected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true" >
+
+        <RadioButton
+            android:id="@+id/text1_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                    android:layout_marginTop="14dp"
+            
+            android:layout_alignParentRight="true" />
+
+        <RadioButton
+            android:id="@+id/text2_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                    android:layout_marginTop="14dp"
+            
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/text1" />
+
+        <RadioButton
+            android:id="@+id/text3_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                    android:layout_marginTop="14dp"
+            
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/text2" />
+    </RadioGroup>
+
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anrufrekorder</string>
+    <string name="recording_enabled_prompt">Anrufe aufzeichnen</string>
+    <string name="audio_source_prompt">Audioquelle</string>
+    <string name="audio_format_prompt">Audioformat</string>
+    <color name="Aqua">#636363</color>
+    <string name="accountname">Thumbnail</string>
+        <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+        <string name="turnon">Anrufe werden nicht in der recorded.Turn</string>
+     <string name="turnsecond">am Recorder mit den Button</string>
+ <string name="turnoff">in Handy-Speicherkarte gespeichert</string>
+ <string name="textoff">Anrufe werden automatisch erfasst und</string>
+ <string name="record">Aufnahme liste</string>
+    <string name="settings"> Settingst</string>
+    <string name="notifi">Benachrichtigungen</string>
+    <string name="messages">Nachrichten</string>
+    <string name="setting">   Settingst</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">Benachrichtigungen</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">Mic</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">Audio-Dateiformat</string>
+        <string name="channel">Audio-Kanäle</string>
+         <string name="activate">Aktivieren Sie die Mitteilung Nachrichten</string>
+</resources>

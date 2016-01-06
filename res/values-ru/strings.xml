@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Записи вызовов</string>
+    <string name="recording_enabled_prompt">Записывать разговоры </string>
+    <string name="audio_source_prompt">Источник звука</string>
+    <string name="audio_format_prompt">Формат аудио</string>
+    <color name="Aqua">#636363</color>
+    <string name="accountname">Thumbnail</string>
+       <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+      <string name="turnon">Вызовы не recorded.Turn на</string>
+     <string name="turnsecond">диктофоне с вышеуказанной кнопки</string>
+ <string name="turnoff">в вашей карте памяти телефона</string>
+ <string name="textoff">вонки автоматически записываются и хранятся</string>
+ <string name="record">Запись Список</string>
+    <string name="settings">настройки</string>
+    <string name="notifi">Уведомления</string>
+    <string name="messages">сообщения</string>
+    <string name="setting">   настройки</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">Уведомления</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">микрофон</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">Аудио форматы файлов</string>
+        <string name="channel">Aудиоканалы</string>
+         <string name="activate">Активируйте уведомления Сообщения</string>
+</resources>

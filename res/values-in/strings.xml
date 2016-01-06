@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hubungi Recorder</string>
+    <string name="recording_enabled_prompt">Rekam Panggilan</string>
+    <string name="audio_source_prompt">Sumber Audio</string>
+    <string name="audio_format_prompt">Format audio</string>
+    <color name="Aqua">#636363</color>
+    <string name="accountname">Thumbnail</string>
+        <string name="title_activity_on_off_page">pada/lepas Page</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+        <string name="turnon">Panggilan tidak menjadi recorded.Turn pada</string>
+     <string name="turnsecond"> perekam dengan tombol di atas</string>
+ <string name="turnoff">disimpan dalam kartu memori ponsel Anda</string>
+ <string name="textoff">Panggilan secara otomatis akan dicatat dan</string>
+ <string name="record">Rekam Daftar</string>
+    <string name="settings">Pengaturan</string>
+    <string name="notifi">Pemberitahuan</string>
+    <string name="messages">pesan</string>
+    <string name="setting">   Pengaturan</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">Pemberitahuan</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">Mic</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">Audio berkas format</string>
+        <string name="channel">Audio Saluran</string>
+         <string name="activate">Aktifkan Pesan pemberitahuan</string>
+</resources>

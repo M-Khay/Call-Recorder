@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de llamadas</string>
+    <string name="recording_enabled_prompt">Grabar llamadas</string>
+    <string name="audio_source_prompt">Fuente de audio</string>
+    <string name="audio_format_prompt">Formato de audio</string>
+    <color name="Aqua">#636363</color>
+    <string name="accountname">Thumbnail</string>
+        <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+        <string name="turnon">Las llamadas no están siendo recorded.Turn el</string>
+     <string name="turnsecond">grabador con el botón de arriba</string>
+ <string name="turnoff">de memoria del teléfono de forma automática</string>
+ <string name="textoff">Las llamadas serán grabadas y almacenadas en la tarjeta</string>
+ <string name="record">Lista de grabación</string>
+    <string name="settings">Configuración</string>
+    <string name="notifi">Notificaciones</string>
+    <string name="messages">Mensajes</string>
+    <string name="setting">   Settingst</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">Notificaciones</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">Mic</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">Formato de archivo de audio</string>
+        <string name="channel">Canales de Audio</string>
+         <string name="activate">Activar los mensajes de notificación</string>
+</resources>

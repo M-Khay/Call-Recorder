@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Enregistreur d appels</string>
+    <string name="recording_enabled_prompt">Enregistrement des appels</string>
+    <string name="audio_source_prompt">Source audio</string>
+    <string name="audio_format_prompt">Format audio</string>
+    <color name="Aqua">#636363</color>
+    <string name="accountname">Thumbnail</string>
+        <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+        <string name="turnon">Appels ne sont pas recorded.Turn sur l</string>
+     <string name="turnsecond">enregistreur avec le bouton dessus</string>
+ <string name="turnoff">dans votre carte mémoire du téléphone</string>
+ <string name="textoff">Les appels seront automatiquement enregistrées et stockées</string>
+ <string name="record">Liste des enregistrements</string>
+    <string name="settings">paramètres</string>
+    <string name="notifi">Notifications</string>
+    <string name="messages">Messages</string>
+    <string name="setting">   paramètres</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">Notification</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">Mic</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">Format de fichier audio</string>
+        <string name="channel">canaux audio</string>
+         <string name="activate">Activer les messages de notification</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pang-record ng tawag</string>
+    <string name="recording_enabled_prompt">Mga Na-record na Tawag</string>
+    <string name="audio_source_prompt">Pinagmulan ng Audio</string>
+    <string name="audio_format_prompt">Format ng audio</string>
+    <color name="Aqua">#636363</color>
+    <string name="accountname">Thumbnail</string>
+        <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+        <string name="turnon">Ang mga tawag ay hindi pagiging recorded.Turn</string>
+     <string name="turnsecond">sa recorder na may button sa itaas</string>
+ <string name="turnoff">imbak sa iyong telepono Memory card</string>
+ <string name="textoff">Ang mga tawag ay awtomatikong naitala at naka</string>
+ <string name="record">Record Listahan</string>
+    <string name="settings">Mga Setting</string>
+    <string name="notifi">Mga Abiso</string>
+    <string name="messages">Mensahe</string>
+    <string name="setting">   Mga Setting</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">Mga Abiso</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">Pinagmulan ng Audio</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">Format ng Audio File</string>
+        <string name="channel">Mga Channel audio</string>
+         <string name="activate">Aktivieren von Benachrichtigungen</string>
+</resources>

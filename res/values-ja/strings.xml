@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">レコーダーを呼び出す </string>
+    <string name="recording_enabled_prompt">通話を録音</string>
+    <string name="audio_source_prompt">オーディオの選択</string>
+    <string name="audio_format_prompt">オーディオ形式</string>
+    <color name="Aqua">#636363</color>
+    <string name="accountname">Thumbnail</string>
+        <string name="title_activity_on_off_page">OnOffPage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_selector">SelectorActivity</string>
+       <string name="turnon">呼び出しは、上記のボタンでレコーダーにrecorded </string>
+     <string name="turnsecond">.Turnされていない</string>
+ <string name="turnoff">モリカードに保存されます</string>
+ <string name="textoff">ールは、自動的に記録され、お使いの携帯電話のメ</string>
+ <string name="record">レコードリスト</string>
+    <string name="settings">[設定]</string>
+    <string name="notifi">お知らせメール</string>
+    <string name="messages">メッセージ</string>
+    <string name="setting">   [設定]</string>
+    <string name="text">TextView</string>
+    <string name="title">This is my new title</string>
+    <string name="notify">お知らせメール</string>
+    <string name="voice">Voice_UpLink</string>
+     <string name="down">Down_Link</string>
+      <string name="mic">マイク</string>
+      <string name="three">Three_gpp</string>
+     <string name="mpe">Mpeg_4</string>
+      <string name="raw">Raw_Amr</string>
+      <string name="audio">オーディオファイル形式</string>
+        <string name="channel">オーディオチャンネル</string>
+         <string name="activate">通知メッセージを有効にします</string>
+</resources>
